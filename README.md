@@ -1,1 +1,3 @@
-# Gan_Anime_Faces
+# Gan Anime Faces
+
+Kaggle Dataset : https://www.kaggle.com/datasets/splcher/animefacedataset
